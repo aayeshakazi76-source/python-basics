@@ -13,8 +13,8 @@ It is created to practice core Python concepts and build a strong foundation.
 
 ## Files Included
 - hello.py
-- even_odd.py
-- calculator.py
+- star.py
+  
 
 ## How to Run the Code
 1. Install Python 3.x on your system

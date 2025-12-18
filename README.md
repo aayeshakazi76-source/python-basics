@@ -17,7 +17,7 @@ It is created to practice core Python concepts and build a strong foundation.
   
 
 ## How to Run the Code
-1. Download and install Python from python.org (tick Add Python to PATH during installation).
+1.Download and install Python from python.org (tick Add Python to PATH during installation).
 
 2.After installation, open the IDLE (Python) application.
 

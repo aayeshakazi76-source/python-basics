@@ -1,5 +1,5 @@
-# python-basics
-# Python Basics
+# python-Basics
+
 
 This repository contains basic Python programs for beginners.
 It is created to practice core Python concepts and build a strong foundation.

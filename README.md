@@ -12,6 +12,7 @@ It is created to practice core Python concepts and build a strong foundation.
 - Basic Programs
 
 ## Files Included
+-variables_and_datatypes
 - hello.py
 - star.py
   

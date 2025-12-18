@@ -17,10 +17,13 @@ It is created to practice core Python concepts and build a strong foundation.
   
 
 ## How to Run the Code
-1. Install Python 3.x on your system
-2. Open terminal / command prompt
-3. Run any file using:
-   python filename.py
+1. Download and install Python from python.org (tick Add Python to PATH during installation).
+
+2.After installation, open the IDLE (Python) application.
+
+3.Paste your code in IDLE or create a .py file using File → New File.
+
+4.Click Run → Run Module (F5) to run the code.
 
 Example:
 python hello.py
